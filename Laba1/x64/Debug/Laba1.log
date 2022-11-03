@@ -1,0 +1,18 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Laba1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.c
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(168,22): warning C4013: PaintRectWithPicture: нет определения; предполагается "extern" с возвратом типа "int"
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(222,3): warning C4033: "MouseMove" должен возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(253,3): warning C4033: "MouseWheel" должен возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(278,3): warning C4033: "KeyDown" должен возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(492,35): warning C4047: функция: "DWORD" отличается по уровням косвенного обращения от "void *"
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(492,31): warning C4024: CreateWindowExW: различные типы для формального и фактического параметров 1
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(174): warning C4716: OnWindowPaint: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(162): warning C4716: OnSizeChanged: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(204): warning C4716: PaintRectWithPicture: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(217): warning C4716: LeftMouseButtonPressed: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(248): warning C4716: LeftMouseButtonUp: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(243): warning C4716: MouseMove: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(270): warning C4716: MouseWheel: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(420): warning C4716: OnWindowCreate: должна возвращать значение
+D:\3 курс\5 сем\ОСиСП\Lab2\Laba1\Source.c(411): warning C4716: KeyDown: должна возвращать значение
+  Laba1.vcxproj -> D:\3 курс\5 сем\ОСиСП\Lab2\x64\Debug\Laba2.exe
